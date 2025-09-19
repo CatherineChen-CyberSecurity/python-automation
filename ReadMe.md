@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 2. Run Backup Script
 ```bash
-python scripts/zip_backup.py data/
+python cripts/zip_backup.py data backups
 ```
 3. Schedule with Cron (Linux example)
 ```bash
